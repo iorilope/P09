@@ -181,10 +181,9 @@ public class MendizaleakKudeatu {
 				System.out.println(MendizaleakKudeatu.ERROREA_GERTATU_DA + e.getMessage());
 
 			}
-			
 
 		} while (aukera != 0);
-sc.close();
+		sc.close();
 	}
 
 }

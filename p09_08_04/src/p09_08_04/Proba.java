@@ -9,7 +9,7 @@ package p09_08_04;
  */
 public class Proba {
 
-	public static void main(String args[]) {
+	
 		
 		final String s1=new String("Kaixo ");
 		String s2= new String("Mundua ");

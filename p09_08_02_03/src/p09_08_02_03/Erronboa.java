@@ -1,9 +1,8 @@
 /*
- * 2024(e)ko urt. 31(a)
+ * 2024(e)ko ots. 6(a)
  * Ioritz Lopetegi
  */
 package p09_08_02_03;
-
 
 /**
  * 
@@ -18,7 +17,7 @@ public class Erronboa extends Forma {
 	 */
 	@Override
 	public String toString() {
-		
+
 		return "Erronboa";
 	}
 

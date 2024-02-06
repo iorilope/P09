@@ -1,16 +1,15 @@
 /*
- * 2024(e)ko urt. 31(a)
+ * 2024(e)ko ots. 6(a)
  * Ioritz Lopetegi
  */
 package p09_08_02_03;
-
 
 /**
  * 
  * @author Ioritz Lopetegi
  */
 public class TestForma {
-	
+
 	/**
 	 * The main method.
 	 *

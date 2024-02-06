@@ -1,26 +1,25 @@
 /*
- * 2024(e)ko urt. 31(a)
+ * 2024(e)ko ots. 6(a)
  * Ioritz Lopetegi
  */
 package p09_08_02_03;
 
-// TODO: Auto-generated Javadoc
 /**
  * 
  * @author Ioritz Lopetegi
  */
 public abstract class Forma {
-	
+
 	/** The izena string. */
 	protected String izenaString;
-	
+
 	/** The id. */
 	protected int id;
 
 	/**
 	 * To string.
 	 *
-	 * @return  string
+	 * @return string
 	 */
 	public abstract String toString();
 
@@ -36,14 +35,13 @@ public abstract class Forma {
 	/**
 	 * Gets the id.
 	 *
-	 * @return  id
+	 * @return id
 	 */
 	public void id() {
-		System.out.println(id + " da bere id-a");;
+		System.out.println(id + " da bere id-a");
+		;
 	}
 
-
-	
 	/**
 	 * Sets the id.
 	 *

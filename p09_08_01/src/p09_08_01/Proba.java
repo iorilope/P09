@@ -10,17 +10,17 @@ package p09_08_01;
  * @author Ioritz Lopetegi
  */
 class Proba {
-	
-	/**  Izena. */
+
+	/** Izena. */
 	protected String izena;
-	
-	/**  Id. */
+
+	/** Id. */
 	protected int id;
 
 	/**
 	 * Gets the id.
 	 *
-	 * @return  id
+	 * @return id
 	 */
 	public String getId() {
 		return izena;
@@ -29,7 +29,7 @@ class Proba {
 	/**
 	 * Gets the id.
 	 *
-	 * @return  id
+	 * @return id
 	 */
 	public int getId() {
 		return id;

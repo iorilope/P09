@@ -1,5 +1,6 @@
-/**
- * 
+/*
+ * 2024(e)ko ots. 6(a)
+ * Ioritz Lopetegi
  */
 package p09_06;
 
@@ -9,8 +10,12 @@ package p09_06;
  */
 public class Semea extends Aita {
 
+	/** The dato. */
 	private int dato;
 
+	/**
+	 * M.
+	 */
 	@Override
 	public void m() {
 		System.out.println("Seme klaseko metodoa");
@@ -18,10 +23,18 @@ public class Semea extends Aita {
 		datua = 20;
 	}
 
+	/**
+	 * Gets the datua.
+	 *
+	 * @return the datua
+	 */
 	public void getDatua() {
 		System.out.println(super.datua);
 	}
 
+	/**
+	 * Erakutsi.
+	 */
 	public void erakutsi() {
 		this.m();
 		m();

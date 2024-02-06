@@ -1,0 +1,18 @@
+src/p09_08_05/Dado.java:6:	UnnecessaryImport:	UnnecessaryImport: Unnecessary import from the java.lang package 'java.lang.Math'
+src/p09_08_05/Dado.java:12:	ShortClassName:	ShortClassName: Avoid short class names like Dado
+src/p09_08_05/Dado.java:14:	CallSuperInConstructor:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/p09_08_05/Dado.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/p09_08_05/Moneta.java:18:	CallSuperInConstructor:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/p09_08_05/Moneta.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/p09_08_05/TestZozketa.java:12:	TestClassWithoutTestCases:	TestClassWithoutTestCases: The class 'TestZozketa' might be a test class, but it contains no test cases.
+src/p09_08_05/TestZozketa.java:12:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/p09_08_05/TestZozketa.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'm1' could be declared final
+src/p09_08_05/TestZozketa.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like m1
+src/p09_08_05/TestZozketa.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'd1' could be declared final
+src/p09_08_05/TestZozketa.java:19:	ShortVariable:	ShortVariable: Avoid variables with short names like d1
+src/p09_08_05/TestZozketa.java:21:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/p09_08_05/TestZozketa.java:22:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/p09_08_05/Zozketa.java:10:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/p09_08_05/Zozketa.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/p09_08_05/Zozketa.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/p09_08_05/Zozketa.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required

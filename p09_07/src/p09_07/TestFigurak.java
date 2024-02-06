@@ -1,5 +1,6 @@
-/**
- * 
+/*
+ * 2024(e)ko ots. 6(a)
+ * Ioritz Lopetegi
  */
 package p09_07;
 
@@ -8,6 +9,12 @@ package p09_07;
  * @author Ioritz Lopetegi
  */
 public class TestFigurak {
+
+	/**
+	 * The main method.
+	 *
+	 * @param args the arguments
+	 */
 	public static void main(String[] args) {
 
 		Karratua k = new Karratua(5);
